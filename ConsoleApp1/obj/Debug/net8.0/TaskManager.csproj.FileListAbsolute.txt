@@ -1,0 +1,14 @@
+E:\Sharun\LLD\Projects\TaskManager\ConsoleApp1\bin\Debug\net8.0\TaskManager.exe
+E:\Sharun\LLD\Projects\TaskManager\ConsoleApp1\bin\Debug\net8.0\TaskManager.deps.json
+E:\Sharun\LLD\Projects\TaskManager\ConsoleApp1\bin\Debug\net8.0\TaskManager.runtimeconfig.json
+E:\Sharun\LLD\Projects\TaskManager\ConsoleApp1\bin\Debug\net8.0\TaskManager.dll
+E:\Sharun\LLD\Projects\TaskManager\ConsoleApp1\bin\Debug\net8.0\TaskManager.pdb
+E:\Sharun\LLD\Projects\TaskManager\ConsoleApp1\obj\Debug\net8.0\TaskManager.GeneratedMSBuildEditorConfig.editorconfig
+E:\Sharun\LLD\Projects\TaskManager\ConsoleApp1\obj\Debug\net8.0\TaskManager.AssemblyInfoInputs.cache
+E:\Sharun\LLD\Projects\TaskManager\ConsoleApp1\obj\Debug\net8.0\TaskManager.AssemblyInfo.cs
+E:\Sharun\LLD\Projects\TaskManager\ConsoleApp1\obj\Debug\net8.0\TaskManager.csproj.CoreCompileInputs.cache
+E:\Sharun\LLD\Projects\TaskManager\ConsoleApp1\obj\Debug\net8.0\TaskManager.dll
+E:\Sharun\LLD\Projects\TaskManager\ConsoleApp1\obj\Debug\net8.0\refint\TaskManager.dll
+E:\Sharun\LLD\Projects\TaskManager\ConsoleApp1\obj\Debug\net8.0\TaskManager.pdb
+E:\Sharun\LLD\Projects\TaskManager\ConsoleApp1\obj\Debug\net8.0\TaskManager.genruntimeconfig.cache
+E:\Sharun\LLD\Projects\TaskManager\ConsoleApp1\obj\Debug\net8.0\ref\TaskManager.dll
