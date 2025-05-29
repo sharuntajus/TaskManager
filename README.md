@@ -64,7 +64,7 @@ TaskManager/
 Encapsulation Visualized
 - (minus sign) means private
 + (plus sign) means public
-# (hash) would mean protected
+(hash) would mean protected
 
 TaskItem.Assignee is private set →  Encapsulated
 
